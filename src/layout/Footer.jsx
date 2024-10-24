@@ -43,7 +43,7 @@ export const Footer = () => {
                   Carrier
                 </Link>
                 <Link className="hover:underline" to="">
-                  We are hiring
+                  We Are Hiring
                 </Link>
                 <Link className="hover:underline" to="/team">
                   Team
